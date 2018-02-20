@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="exiting_a1">Exiting A1</string>
+    <string name="launch_a2">launch_a2</string>
+    <string-array name="Titles">
+        <item>Willis Tower</item>
+        <item>Navy Pier</item>
+        <item>John Hancock Center</item>
+        <item>Shedd Aquarium</item>
+        <item>Field Museum of Natural History</item>
+        <item>Marina city</item>
+    </string-array>
+    <string-array name="web">
+        <item>http://www.willistower.com/</item>
+        <item>https://navypier.com/</item>
+        <item>http://johnhancockcenterchicago.com/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>http://www.marina-city.com/</item>
+    </string-array>
+
+    <string name="option1">Quit</string>
+</resources>

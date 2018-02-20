@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <item
+    android:id="@+id/option1"
+    android:title="Exit A1"/>
+
+    <item
+        android:id="@+id/option2"
+        android:title="@string/launch_a2"
+        app:showAsAction="never"/>
+
+
+</menu>
